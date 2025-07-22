@@ -44,6 +44,12 @@ export const BUTTONS = [
     icon: "cib:ko-fi",
   },
   {
+    name: "LinkedIn",
+    background: "bg-linkedin hover:bg-linkedin/80",
+    href: "https://linkedin.com/in/jozefsteinhubl",
+    icon: "mdi:linkedin",
+  },
+  {
     name: "HackerOne",
     background: "bg-hackerone hover:bg-hackerone/80",
     href: "https://hackerone.com/xhyrom",
