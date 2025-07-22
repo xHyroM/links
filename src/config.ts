@@ -93,6 +93,12 @@ export const BUTTONS = [
     icon: "simple-icons:modrinth",
   },
   {
+    name: "CurseForge",
+    background: "bg-curseforge hover:bg-curseforge/80",
+    href: "https://www.curseforge.com/members/xhyrom",
+    icon: "simple-icons:curseforge",
+  },
+  {
     name: "Printables",
     background: "bg-printables hover:bg-printables/80",
     href: "https://www.printables.com/@xhyrom_2962034",

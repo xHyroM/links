@@ -63,6 +63,7 @@ module.exports = {
         wakatime: "#4a4a4a",
         website: "#e8b217",
         modrinth: "#1bd96a",
+        curseforge: "#f16436",
         printables: "#eb6f40",
         gerlachsnezka: "#e84646",
         minecraft: "#6F4E37",
